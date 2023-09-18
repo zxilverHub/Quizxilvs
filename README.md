@@ -1,8 +1,28 @@
-# React + Vite
+# Quizxilvs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is for Review purposes by the author
 
-Currently, two official plugins are available:
+## 2nd year subs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Not all of the information that are here are guaranteed correct
+
+## Author
+
+- [Silver](https://www.facebook.com/silverdave.ramos.3/)
+
+message me in facebook for questions
+
+## About
+
+This repo does not container database to store your possible scores in the test, this is just for review purposes only.
+Alot of questions here are came from chatGPT
+
+## Development
+
+Some topics are still under development
+
+## Topics
+
+Done - HCI-Chapter 1
+
+Under Development - HCI-Chapter 2 - Purposice Communication - Data Structure & Algorithm
