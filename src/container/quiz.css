@@ -1,0 +1,52 @@
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    gap: 2rem;
+}
+
+.question-card,
+.choices {  
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    gap: 1rem;
+}
+
+.question-card {
+    padding: 1rem;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.question {
+    padding-block: 1rem;
+    line-height: 1.2;
+    font-size: clamp(1.2rem, 1.5vw, 1.5rem);
+}
+
+.choices {
+    gap: .2rem;
+}
+
+label {
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    padding: .4rem;
+
+    background-color: rgb(234, 231, 231);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.submit-btn {
+    margin-left: auto;
+    padding: .5rem 1rem;
+    border-radius: 3px;
+    font-size: 1rem;
+    cursor: pointer;
+}

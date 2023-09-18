@@ -1,0 +1,215 @@
+{
+    "pest": {
+        "HCI-Chapter_1": ["Human-Computer Interaction", "Human, Computer and Interaction", "Memex system", "Douglas Engelbert", "1962",
+                         "Sketchpad", "Alto computer", "Macintosh computer", "World Wide Web", "iPhone", "Usability", "User Experience", "Accessibility", "Efficiency and Performance",
+                         "Adaptability and Flexibility", "Safety and Reliability", "Ethical and Social Consideration", "Psychology", "Computer Science", "Design", "Human Factors and Ergonomics", "Cognitive Science", "Information Science", "Anthropology and Sociology", "Linguistics", "Ethnography",
+                         "User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and Safety Requirements"
+                        ],
+        "HCI-Chapter_2": []
+    },
+
+    "app": {
+
+        "HCI-Chapter_1": [
+            {
+                "question": "It is the study of the interface between people(user) and computers.",
+                "answer": "Human-Computer Interaction",
+                "id": 1
+            },
+
+            {
+                "question": "To design technology systems and interface that meet user's needs and provide positive and satisfying experience.",
+                "answer": "Human-Computer Interaction",
+                "id": 2
+            },
+
+            {
+                "question": "What are the fundamental components of HCI?",
+                "answer": "Human, Computer and Interaction",
+                "id": 3
+            },
+
+            {
+                "question": "in 1945 Vannever Bush describes a __________, which is a precursor to hypertext.",
+                "answer": "Memex system",
+                "id": 4
+            },
+
+            {
+                "question": "Who invented the mouse?",
+                "answer": "Douglas Engelbert",
+                "id": 5
+            },
+
+            {
+                "question": "When Douglas Engelbert intoduce the mouse?",
+                "answer": "1962",
+                "id": 6
+            },
+
+            {
+                "question": "In 1968 Ivan Sutherland develops __________, one of the first graphical interface",
+                "answer": "Sketchpad",
+                "id": 7
+            },
+
+            {
+                "question": "Xerox PARC develops the __________, which features a graphical user interface similar to the Macintosh.",
+                "answer": "Alto computer",
+                "id": 8
+            },
+
+            {
+                "question": "In 1984 the __________ is realeased, popularizing the use of graphical user interface",
+                "answer": "Macintosh computer",
+                "id": 10
+            },
+
+            {
+                "question": "In 1993 the __________ is created, which makes it possible for people to interact with computers over the internet.",
+                "answer": "World Wide Web",
+                "id": 11
+            },
+
+            {
+                "question": "In 2007 the __________ was released, which populized the use of touchscreens for HCI.",
+                "answer": "iPhone",
+                "id": 12
+            },
+
+            {
+                "question": "The first augmented reality (Ar) headset was __________, which opened up new possibilities for HCI.",
+                "answer": "Google Glass",
+                "id": 13
+            },
+
+            {
+                "question": "The goal is to create interfaces and interactions that are intuitive, efficient, and enjoyable for users, ultimately leading to a positive user experience and increased user satisfaction.",
+                "answer": "Usability",
+                "id": 14
+            },
+
+            {
+                "question": "Refers to the overall experience and perception that a user has when interacting with a computer system, software application, website, or any digital product.",
+                "answer": "User Experience",
+                "id": 15
+            },
+
+            {
+                "question": "Refers to the design and implementation of digital products, software applications, websites, and other technology interfaces in a way that ensures equal access and usability for individuals with disabilities.",
+                "answer": "Accessibility",
+                "id": 16
+            },
+
+            {
+                "question": "These are essential aspects of Human-Computer Interaction (HCI) that focus on how well a system or interface performs and how efficiently users can accomplish their tasks",
+                "answer": "Efficiency and Performance",
+                "id": 17
+            },
+
+            {
+                "question": "__________ are critical aspects of Human-Computer Interaction (HCI) that focus on ensuring that technology interfaces and systems are dependable, secure, and free from errors that could lead to harm or undesirable consequences for users.",
+                "answer": "Safety and Reliability",
+                "id": 18
+            },
+
+            {
+                "question": "__________ are important concepts in Human-Computer Interaction (HCI) that focus on designing interfaces and systems that can accommodate a wide range of user needs, preferences, and changing conditions",
+                "answer": "Adaptability and Flexibility",
+                "id": 19
+            },
+
+            {
+                "question": "HCI professionals and designers must be mindful of the ethical implications and broader societal impacts of their work.",
+                "answer": "Ethical and Social Consideration",
+                "id": 20
+            },
+
+            {
+                "question": "__________ helps HCI professionals better understand and design technology interfaces that are more effective, user-friendly, and tailored to human cognitive and emotional processes.",
+                "answer": "Psychology",
+                "id": 21
+            },
+
+            {
+                "question": "This  collaborate closely with HCI designers, psychologists, and other professionals to create technology interfaces that are not only technically sound but also user-centered and aligned with human needs and behavior.",
+                "answer": "Computer Science",
+                "id": 22
+            },
+
+            {
+                "question": "It involves the planning, creation, and optimization of technology interfaces to ensure that they are user-friendly, visually appealing, and effective in facilitating user interactions.",
+                "answer": "Design",
+                "id": 23
+            },
+
+            {
+                "question": "It focuses on optimizing the design of technology interfaces, systems, and physical environments to enhance human performance, safety, and well-being.",
+                "answer": "Human Factors and Ergonomics",
+                "id": 24
+            },
+
+            {
+                "question": "Understanding how humans think, perceive, learn, and make decisions is essential for designing user-friendly and effective technology interfaces.",
+                "answer": "Cognitive Science",
+                "id": 25
+            },
+
+            {
+                "question": "It focusing on the organization, retrieval, and use of information within technology interfaces. HCI professionals often draw from Information Science principles to create interfaces that facilitate efficient information access and management.",
+                "answer": "Information Science",
+                "id": 26
+            },
+
+            {
+                "question": "Understanding human behavior, social interactions, and cultural norms is essential for designing technology interfaces and systems that align with the needs and values of diverse user populations.",
+                "answer": "Anthropology and Sociology",
+                "id": 27
+            },
+
+            {
+                "question": "It focusing on the study of language and communication, which are essential components of human-computer interactions. Understanding linguistic principles is crucial for designing technology interfaces that facilitate effective communication between users and machines.",
+                "answer": "Linguistics",
+                "id": 28
+            },
+
+            {
+                "question": "Helps HCI professionals gain a deep understanding of users' behaviors, needs, and cultural contexts.",
+                "answer": "Ethnography",
+                "id": 29
+            },
+
+            {
+                "question": "HCI professionals create technology interfaces and systems that are not only functional but also enjoyable, efficient, and accessible to a wide range of users, ultimately leading to a positive and user-friendly experience.",
+                "answer": "User-Friendly Design",
+                "id": 30
+            },
+
+            {
+                "question": " User-friendly interfaces should be designed to minimize the occurrence of errors and help users recover from them smoothly",
+                "answer": "Avoiding Errors and Frustration",
+                "id": 31
+            },
+
+            {
+                "question": "HCI professionals and researchers continue to innovate and adapt principles to address emerging technologies and changing user needs in these and other domains, making technology more accessible, usable, and enjoyable for users.",
+                "answer": "Real-World Application",
+                "id": 32
+            },
+
+            {
+                "question": "By integrating HCI throughout the design process, designers and developers can create technology interfaces and systems that prioritize user needs, are intuitive and accessible, and ultimately provide a positive and effective user experience. This iterative and user-centered approach contributes to the success of the product in the real world.",
+                "answer": "Integration with the Design Process",
+                "id": 33
+            },
+
+            {
+                "question": "Designing and developing technology interfaces and systems. Compliance with relevant laws and safety standards is essential to protect users, ensure ethical practices, and avoid legal consequences.",
+                "answer": "Legal and Safety Requirements",
+                "id": 34
+            }
+        ],
+
+        "HCI-Chapter_2": []
+    }
+}
