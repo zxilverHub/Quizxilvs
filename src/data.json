@@ -5,7 +5,11 @@
                          "Adaptability and Flexibility", "Safety and Reliability", "Ethical and Social Consideration", "Psychology", "Computer Science", "Design", "Human Factors and Ergonomics", "Cognitive Science", "Information Science", "Anthropology and Sociology", "Linguistics", "Ethnography",
                          "User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and Safety Requirements"
                         ],
-        "HCI-Chapter_2": []
+        "HCI-Chapter_2": ["Interaction", "Instructing", "Conversing", "Manipulating", "Exploring", "Responding", "Normans Seven Stages of Action", "Model", "Hassenzahl UX Model",
+                        "Framework", "User Model", "Task Model", "Cognitive Model", "Interaction Model", "Word", "Visual Representaion", "Physical objects or space",
+                        "Time", "Behavior", "Significant", "Enjoyable", "Covenient", "Usable", "Fuctional", "Product Features", "Expercience", "Excitement", "Entry", "Engagement", "Exit", "Extension",
+                        "Ergonomics", "Visibility", "Consistency", "Feedback", "Flexibility", "Constraints", "Mapping", "Affordance"
+                        ]
     },
 
     "app": {
@@ -210,6 +214,234 @@
             }
         ],
 
-        "HCI-Chapter_2": []
+        "HCI-Chapter_2": [
+            {
+                "question": "Refers to the dynamic exchange of information and actions between a user and a computer or digital system.",
+                "answer": "Interaction",
+                "id": 35
+            },
+
+            {
+                "question": "Users provide explicit commands or instructions to a computer system to perform specific actions",
+                "answer": "Instructing",
+                "id": 37
+            },
+
+            {
+                "question": "Expecting response from the computer",
+                "answer": "Conversing",
+                "id": 38
+            },
+
+            {
+                "question": "Cotrolling software applications",
+                "answer": "Manipulating",
+                "id": 39
+            },
+
+            {
+                "question": "Navigating or discovering the system or application.",
+                "answer": "Exploring",
+                "id": 40
+            },
+
+            {
+                "question": "Responding of a computer to the user and vice versa.",
+                "answer": "Responding",
+                "id": 41
+            },
+
+            {
+                "question": "This model is widely used in the field of Human-Computer Interaction (HCI) and user experience (UX) design to understand how users interact with systems and how design can influence the user experience.",
+                "answer": "Normans Seven Stages of Action",
+                "id": 42
+            },
+
+            {
+                "question": "__________ is a framework used to understand and evaluate the user experience (UX) in interactive products and systems. This model emphasizes that the user experience goes beyond usability and functionality, considering the emotional and hedonic aspects of user interactions.",
+                "answer": "Hassenzahl UX Model",
+                "id": 43
+            },
+
+            {
+                "question": "__________ help to describe and explain various facets of human-computer interaction.",
+                "answer": "Model",
+                "id": 44
+            },
+
+            {
+                "question": "__________ in HCI provides a structured approach, set of principles, or guidelines for designing, evaluating, or analyzing aspects of human-computer interaction.",
+                "answer": "Framework",
+                "id": 45
+            },
+
+            {
+                "question": "__________ represent the characteristics, behaviors, and needs of the users who interact with a computer system. They are used to design interfaces that match the user's mental model and expectations.",
+                "answer": "User Model",
+                "id": 46
+            },
+
+            {
+                "question": "__________ delve into the mental processes and cognitive aspects involved in human-computer interaction. They aim to understand how users think, perceive, learn, and make decisions when using computer systems",
+                "answer": "Cognitive Model",
+                "id": 47
+            },
+
+            {
+                "question": "__________ describe the sequence of actions and steps that users take to complete specific tasks or goals using a computer system. These models help designers create interfaces that support efficient task execution",
+                "answer": "Task Model",
+                "id": 48
+            },
+
+            {
+                "question": "__________ illustrate the patterns and sequences of user actions and system responses during interaction. They are used to design interfaces that facilitate smooth and effective user-system communication.",
+                "answer": "Interaction Model",
+                "id": 49
+            },
+
+            {
+                "question": "What does 1D means in Five Dimensions of Interaction Design",
+                "answer": "Word",
+                "id": 50
+            },
+
+            {
+                "question": "What does 2D means in Five Dimensions of Interaction Design",
+                "answer": "Visual Representaion",
+                "id": 51
+            },
+
+            {
+                "question": "What does 3D means in Five Dimensions of Interaction Design",
+                "answer": "Physical objects or space",
+                "id": 52
+            },
+
+            {
+                "question": "What does 4D means in Five Dimensions of Interaction Design",
+                "answer": "Time",
+                "id": 53
+            },
+
+            {
+                "question": "What does 5D means in Five Dimensions of Interaction Design",
+                "answer": "Behavior",
+                "id": 54
+            },
+
+            {
+                "question": "in this level in UX design pyramid, the application is working.",
+                "answer": "Functional",
+                "id": 55
+            },
+
+            {
+                "question": "in this level in UX design pyramid, you are using the app to accomplish a task.",
+                "answer": "Usable",
+                "id": 56
+            },
+
+            {
+                "question": "in this level in UX design pyramid, you are now using the app more than you need.",
+                "answer": "Convenient",
+                "id": 57
+            },
+
+            {
+                "question": "in this level in UX design pyramid, you are now relying on this app.",
+                "answer": "Enjoyable",
+                "id": 58
+            },
+
+            {
+                "question": "in this level in UX design pyramid, you can't live without this app.",
+                "answer": "Significant",
+                "id": 59
+            },
+
+            {
+                "question": "The upper levels in UX design pyramid means correspond to?.",
+                "answer": "Experience",
+                "id": 60
+            },
+
+            {
+                "question": "The lower levels in UX design pyramid means correspond to?.",
+                "answer": "Product Features",
+                "id": 61
+            },
+
+            {
+                "question": "In this phase in SE Experience Design Model, the application is now deployed",
+                "answer": "Entry",
+                "id": 62
+            },
+
+            {
+                "question": "In this phase in SE Experience Design Model, the team will organizing events and other strategies to keep users using the app",
+                "answer": "Engagement",
+                "id": 63
+            },
+
+            {
+                "question": "This the fourth phase in SE Experience Design Model",
+                "answer": "Exit",
+                "id": 64
+            },
+
+            {
+                "question": "In this phase in SE Experience Design Model, the application has a extra features to keep the user using their app. ex. notifications, event, daily rewards.",
+                "answer": "Extension",
+                "id": 65
+            },
+
+            {
+                "question": "In this phase in SE Experience Design Model, the team is makig a promotional events like advertisement before deploying the app",
+                "answer": "Excitement",
+                "id": 66
+            },
+
+            {
+                "question": "__________, also known as human factors engineering, aims to create systems and environments that are comfortable, efficient, safe, and conducive to human well-being during computer use.",
+                "answer": "Ergonomics",
+                "id": 67
+            },
+
+            {
+                "question": "It is the basic principle that the more visible an element is, the more likely user will know about them and how to use them.",
+                "answer": "Visibility",
+                "id": 68
+            },
+
+            {
+                "question": "It is the principle of making it clear to the user what action has been taken and what has been accomplished.",
+                "answer": "Feedback",
+                "id": 69
+            },
+
+            {
+                "question": "__________ is a about limiting the range of iteraction possibilities for the user to simplify the interface and guide the user to qppropriate next action.",
+                "answer": "Contraints",
+                "id": 70
+            },
+
+            {
+                "question": "__________ refers to having similar operations and similar elements for achieving similar tasks.",
+                "answer": "Cosistensy",
+                "id": 71
+            },
+
+            {
+                "question": "__________ is about having a clear realationship between controls and the effect they have on the world.",
+                "answer": "Mapping",
+                "id": 72
+            },
+
+            {
+                "question": "Refers to the attribute of the objects that allows people to know how to use it",
+                "answer": "Affordance",
+                "id": 73
+            }
+        ]
     }
 }
