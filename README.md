@@ -4,7 +4,7 @@ This repository is for Review purposes by the author
 
 ## 2nd year subs
 
-Not all of the information that are here are guaranteed correct
+Not all of the information that here are not guaranteed correct
 
 ## Author
 
