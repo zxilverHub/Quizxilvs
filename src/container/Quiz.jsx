@@ -1,14 +1,14 @@
 import { useCallback, useState } from "react"
 import "./quiz.css"
 import { useSelector, useDispatch } from "react-redux"
-import { handleUserAnswer, handleSubmitQuiz } from "../features/AppSlice"
+import { handleUserAnswer, handleSubmitQuiz, handleBack } from "../features/AppSlice"
 
 function answerObject(question, answer) {
     return {
         question: question.question,
         correctAnswer: question.answer,
         userAnswer: answer,
-        isCheck: question.answer == answer,
+        isCheck: question.answer.toLowerCase() == answer.toLowerCase(),
         questionId: question.id
     }
 }
@@ -18,6 +18,7 @@ function Quiz() {
     const category = useSelector( state => state.app.category)
     const answerPest = data.pest[category]
     const questions = data.app[category]
+    const isHard = useSelector(state => state.app.isHard)
     const dispatch = useDispatch()
 
 
@@ -59,10 +60,15 @@ function Quiz() {
     
   return (
     <div className="container quiz">
+        <button className="btn-toggle blacktext"
+            onClick={()=>dispatch(handleBack())}>Back</button>
         { getQuestions().map((question, i)=> (
             <div className="question-card" key={i}>
 
                 <p className="question">{i+1}. {question.question}</p>
+
+                { isHard?
+                <input type="text" onChange={(e)=> handleAnswer(question, e.target.value)} className="answer-input" /> :
 
                 <div className="choices">
                     { getChoices(question.answer).map((choices, j)=> (
@@ -72,6 +78,7 @@ function Quiz() {
                         </label>
                     )) }
                 </div>
+                }
 
             </div>
         )) }

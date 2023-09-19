@@ -50,3 +50,13 @@ label {
     font-size: 1rem;
     cursor: pointer;
 }
+
+.answer-input {
+    width: 100%;
+    padding: .6rem 1rem;
+    font-size: 1rem;
+}
+
+.blacktext {
+    color: black;
+}

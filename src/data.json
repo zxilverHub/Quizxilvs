@@ -360,43 +360,43 @@
             },
 
             {
-                "question": "The upper levels in UX design pyramid means correspond to?.",
-                "answer": "Experience",
+                "question": "The one whom computer systems are designed to assist.",
+                "answer": "Human",
                 "id": 60
             },
 
             {
-                "question": "The lower levels in UX design pyramid means correspond to?.",
-                "answer": "Product Features",
+                "question": "It a type of memory that stores information from the senses for a very short period of time.",
+                "answer": "Sensory Memory",
                 "id": 61
             },
 
             {
-                "question": "In this phase in SE Experience Design Model, the application is now deployed",
+                "question": "In this phase in 5E Experience Design Model, the application is now deployed",
                 "answer": "Entry",
                 "id": 62
             },
 
             {
-                "question": "In this phase in SE Experience Design Model, the team will organizing events and other strategies to keep users using the app",
+                "question": "In this phase in 5E Experience Design Model, the team will organizing events and other strategies to keep users using the app",
                 "answer": "Engagement",
                 "id": 63
             },
 
             {
-                "question": "This the fourth phase in SE Experience Design Model",
+                "question": "This the fourth phase in 5E Experience Design Model",
                 "answer": "Exit",
                 "id": 64
             },
 
             {
-                "question": "In this phase in SE Experience Design Model, the application has a extra features to keep the user using their app. ex. notifications, event, daily rewards.",
+                "question": "In this phase in 5E Experience Design Model, the application has a extra features to keep the user using their app. ex. notifications, event, daily rewards.",
                 "answer": "Extension",
                 "id": 65
             },
 
             {
-                "question": "In this phase in SE Experience Design Model, the team is makig a promotional events like advertisement before deploying the app",
+                "question": "In this phase in 5E Experience Design Model, the team is makig a promotional events like advertisement before deploying the app",
                 "answer": "Excitement",
                 "id": 66
             },
@@ -420,8 +420,8 @@
             },
 
             {
-                "question": "__________ is a about limiting the range of iteraction possibilities for the user to simplify the interface and guide the user to qppropriate next action.",
-                "answer": "Contraints",
+                "question": "__________ is a about limiting the range of iteraction possibilities for the user to simplify the interface and guide the user to appropriate next action.",
+                "answer": "Constraints",
                 "id": 70
             },
 
@@ -441,6 +441,161 @@
                 "question": "Refers to the attribute of the objects that allows people to know how to use it",
                 "answer": "Affordance",
                 "id": 73
+            },
+            {
+                "question": "The first step of how our memory stores information.",
+                "answer": "Sensory memories",
+                "id": 74
+            },
+
+            {
+                "question": "This action is needed to store the sensory into Short-term memory or working memory.",
+                "answer": "Attention",
+                "id": 75
+            },
+
+            {
+                "question": "When you give an attentention into information, that information will now store in to?",
+                "answer": "Sensory memory",
+                "id": 76
+            },
+
+            {
+                "question": "We need this so we can store this information in to log-term memory",
+                "answer": "Rehearsal",
+                "id": 77
+            },
+
+            {
+                "question": "It is a temporary storage system that holds information that is currently being used.",
+                "answer": "Short-term memory",
+                "id": 78
+            },
+
+            {
+                "question": "It is the inability to acces information from our memory.",
+                "answer": "Forgetting",
+                "id": 79
+            },
+
+            {
+                "question": "It is what we called when we accessing information from our memory",
+                "answer": "Retrieval",
+                "id": 80
+            },
+
+            {
+                "question": "You are storing or putting information to your memory",
+                "answer": "Storing",
+                "id": 81
+            },
+
+            {
+                "question": "Using knowledge to draw conclusion or infer new information",
+                "answer": "Reasoning",
+                "id": 82
+            },
+
+            {
+                "question": "Derives a logically necessary conclusion from given premises, even if it doesn't always align with our notion of truth.",
+                "answer": "Deductive",
+                "id": 83
+            },
+
+            {
+                "question": "Generalized from observed cases to infer information about unobserved cases, although it may not be entirely reilable.",
+                "answer": "Inductive",
+                "id": 84
+            },
+
+            {
+                "question": "Reasons from a fact to the cause of the fact, helping us derive explanations for observed events",
+                "answer": "Abductive",
+                "id": 85
+            },
+
+            {
+                "question": "It is process of finding a solution to an unfamiliar task using the knowledge we have.",
+                "answer": "Problem-solving",
+                "id": 86
+            },
+
+            {
+                "question": "In this theory, you are deviding or restructuring the problem and gaining insight to find innovattive solutions.",
+                "answer": "Gestalt theory",
+                "id": 87
+            },
+
+            {
+                "question": "We called it a trial and error theory.",
+                "answer": "Problem space theory",
+                "id": 88
+            },
+
+            {
+                "question": "Refers to the porcess of gaining experties and proficiency in a particular domain over time. It is a complex process that involves a number of factors.",
+                "answer": "Skill acquisition",
+                "id": 89
+            },
+
+            {
+                "question": "It is a factor in skill acquisition that said, you are gaining skill through teaching",
+                "answer": "Transfer",
+                "id": 90
+            },
+
+            {
+                "question": "__________ are unitetional actions that devirate from the desired outcome. They can range from minor inconveniences to serious consequences.",
+                "answer": "Errors",
+                "id": 91
+            },
+
+            {
+                "question": "This component represents how humans gather information from the environment. It involves sensory processes such as vision, hearing, touch, and other senses.",
+                "answer": "Perceptual system",
+                "id": 92
+            },
+
+            {
+                "question": "It is responsible for executing physical actions in response to the information processed by the cognitive system.",
+                "answer": "motor system",
+                "id": 93
+            },
+
+            {
+                "question": "It is responsible for tasks such as memory, attention, problem-solving, decision-making, and language processing. It processes the information received from the perceptual system and generates actions based on that information.",
+                "answer": "cognitive system",
+                "id": 94
+            },
+
+            {
+                "question": "refers to the sensory memory associated with visual information. It is extremely short-lived, lasting only for a fraction of a second (typically less than a second).",
+                "answer": "iconic memory",
+                "id": 95
+            },
+
+            {
+                "question": "the sensory memory associated with auditory information, such as sounds and spoken language. It lasts longer than iconic memory, typically around 2 to 4 seconds",
+                "answer": "Echoic Memory",
+                "id": 96
+            },
+
+            {
+                "question": "This sensory information helps you recognize objects, navigate your environment, and perform various tactile tasks.",
+                "answer": "Haptic Memory",
+                "id": 97
+            },
+
+            {
+                "question": "efers to the system responsible for encoding, storing, and retrieving personal experiences and specific events or episodes in your life",
+                "answer": "Episodic Memory",
+                "id": 98
+            },
+            
+            {
+                "question": " It involves the storage of factual knowledge, concepts, and information that are not tied to specific personal experiences. This type of memory encompasses a wide range of information, such as facts, concepts, language, and general knowledge about the world.",
+                "answer": "Semantic Memory",
+                "id": 99
             }
         ]
     }

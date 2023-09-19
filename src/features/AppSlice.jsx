@@ -8,7 +8,8 @@ export const appSlice = createSlice({
         app: {
             category: null,
             isCatClicked: false,
-            isSumbited: false
+            isSumbited: false,
+            isHard: true
         },
 
         userAnswer: []
@@ -28,7 +29,7 @@ export const appSlice = createSlice({
                 newAnswers.forEach(answer => {
                     if(answer.questionId == action.payload.questionId) {
                         answer.userAnswer = action.payload.userAnswer
-                        answer.isCheck = answer.correctAnswer == action.payload.userAnswer
+                        answer.isCheck = answer.correctAnswer.toLowerCase() == action.payload.userAnswer.toLowerCase()
                     }
                 })
 
@@ -46,9 +47,13 @@ export const appSlice = createSlice({
             state.app.isSumbited = false
             let reset = []
             state.userAnswer = reset
+        },
+
+        setType: (state) => {
+            state.app.isHard = !state.app.isHard
         }
     }
 })
 
-export const { setCategory, handleUserAnswer, handleSubmitQuiz, handleBack } = appSlice.actions
+export const { setCategory, handleUserAnswer, handleSubmitQuiz, handleBack, setType } = appSlice.actions
 export default appSlice.reducer

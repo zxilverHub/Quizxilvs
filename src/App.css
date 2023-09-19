@@ -46,7 +46,7 @@ body {
 }
 
 .green {
-    background-color: rgb(18, 199, 18);
+    background-color: rgb(18, 199, 18) !important;
 }
 
 .red {
