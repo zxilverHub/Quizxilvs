@@ -6,7 +6,7 @@
                          "User-Friendly Design", "Avoiding Errors and Frustration", "Real-World Application", "Integration with the Design Process", "Legal and Safety Requirements"
                         ],
         "HCI-Chapter_2": ["Interaction", "Instructing", "Conversing", "Manipulating", "Exploring", "Responding", "Normans Seven Stages of Action", "Model", "Hassenzahl UX Model",
-                        "Framework", "User Model", "Task Model", "Cognitive Model", "Interaction Model", "Word", "Visual Representaion", "Physical objects or space",
+                        "Framework", "User Model", "Task Model", "Cognitive Model", "Interaction Model", "Word", "Visual Representation", "Physical objects or space",
                         "Time", "Behavior", "Significant", "Enjoyable", "Covenient", "Usable", "Fuctional", "Product Features", "Expercience", "Excitement", "Entry", "Engagement", "Exit", "Extension",
                         "Ergonomics", "Visibility", "Consistency", "Feedback", "Flexibility", "Constraints", "Mapping", "Affordance"
                         ]
@@ -307,7 +307,7 @@
 
             {
                 "question": "What does 2D means in Five Dimensions of Interaction Design",
-                "answer": "Visual Representaion",
+                "answer": "Visual Representation",
                 "id": 51
             },
 
@@ -427,7 +427,7 @@
 
             {
                 "question": "__________ refers to having similar operations and similar elements for achieving similar tasks.",
-                "answer": "Cosistensy",
+                "answer": "Consistency",
                 "id": 71
             },
 
@@ -456,12 +456,12 @@
 
             {
                 "question": "When you give an attentention into information, that information will now store in to?",
-                "answer": "Sensory memory",
+                "answer": "Short-term memory",
                 "id": 76
             },
 
             {
-                "question": "We need this so we can store this information in to log-term memory",
+                "question": "We need this so we can store this information in to long-term memory",
                 "answer": "Rehearsal",
                 "id": 77
             },
@@ -533,7 +533,7 @@
             },
 
             {
-                "question": "Refers to the porcess of gaining experties and proficiency in a particular domain over time. It is a complex process that involves a number of factors.",
+                "question": "Refers to the process of gaining experties and proficiency in a particular domain over time. It is a complex process that involves a number of factors.",
                 "answer": "Skill acquisition",
                 "id": 89
             },
@@ -545,7 +545,7 @@
             },
 
             {
-                "question": "__________ are unitetional actions that devirate from the desired outcome. They can range from minor inconveniences to serious consequences.",
+                "question": "__________ are unintentional actions that devirate from the desired outcome. They can range from minor inconveniences to serious consequences.",
                 "answer": "Errors",
                 "id": 91
             },
