@@ -1,0 +1,71 @@
+  const getDecoy = (cat, ans) => {
+    const pests = []
+    let randAns = Math.floor(Math.random() * 4)
+    while(pests.length < 4) {
+      let rand = Math.floor(Math.random() * pest[cat].length)
+      if(pests.length==randAns) {
+        pests.push(ans)
+      }
+      if(!pests.includes(pest[cat][rand]) && pests.length < 4 && pest[cat][rand]!=ans) {
+        pests.push(pest[cat][rand])
+      }
+    }
+
+    return pests
+  }
+
+
+
+  {
+    "question": "",
+    "answer": "",
+    "id": 112
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 113
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 114
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 115
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 116
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 117
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 118
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 119
+},
+
+{
+    "question": "",
+    "answer": "",
+    "id": 120
+}

@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react"
+import { useCallback } from "react"
 import "./quiz.css"
 import { useSelector, useDispatch } from "react-redux"
 import { handleUserAnswer, handleSubmitQuiz, handleBack } from "../features/AppSlice"

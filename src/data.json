@@ -9,7 +9,8 @@
                         "Framework", "User Model", "Task Model", "Cognitive Model", "Interaction Model", "Word", "Visual Representation", "Physical objects or space",
                         "Time", "Behavior", "Significant", "Enjoyable", "Covenient", "Usable", "Fuctional", "Product Features", "Expercience", "Excitement", "Entry", "Engagement", "Exit", "Extension",
                         "Ergonomics", "Visibility", "Consistency", "Feedback", "Flexibility", "Constraints", "Mapping", "Affordance"
-                        ]
+                        ],
+        "DSA-Chapter_3": ["Stack", "push()", "pop()", "Infix notation", "Queues", "enqueue()", "dequeue()"]
     },
 
     "app": {
@@ -596,6 +597,80 @@
                 "question": " It involves the storage of factual knowledge, concepts, and information that are not tied to specific personal experiences. This type of memory encompasses a wide range of information, such as facts, concepts, language, and general knowledge about the world.",
                 "answer": "Semantic Memory",
                 "id": 99
+            }
+        ],
+
+        "DSA-Chapter_3": [
+            {
+                "question": "Add (store) an item to the queue.",
+                "answer": "enqueue()",
+                "id": 100
+            },
+
+            {
+                "question": "Last-in-First-out",
+                "answer": "Stack",
+                "id": 101
+            },
+
+            {
+                "question": "It is the insertion operation in Stack",
+                "answer": "push()",
+                "id": 102
+            },
+
+            {
+                "question": "Removal operation in Stack",
+                "answer": "pop()",
+                "id": 103
+            },
+
+            {
+                "question": "Get the top data element of the stack, without removing it. In Stack",
+                "answer": "peek()",
+                "id": 104
+            },
+
+            {
+                "question": "Check if stack is full",
+                "answer": "isFull()",
+                "id": 105
+            },
+
+            {
+                "question": "Check if stack is empty.",
+                "answer": "isEmpty()",
+                "id": 106
+            },
+
+            {
+                "question": "First-In-First-Out (FIFO)",
+                "answer": "Queues",
+                "id": 107
+            },
+
+            {
+                "question": "Remove (access) an item from the queue.",
+                "answer": "dequeue()",
+                "id": 108
+            },
+
+            {
+                "question": "Gets the element at the front of the queue without removing it;",
+                "answer": "peek()",
+                "id": 109
+            },
+
+            {
+                "question": "Infix notation is the traditional notation, and it has several advantages, but it also requires extensive rules regarding the order of operation.",
+                "answer": "Infix notation",
+                "id": 110
+            },
+
+            {
+                "question": "Places the operator after the two operands. The operators appear in the order in which they are to be executed",
+                "answer": "Profix",
+                "id": 111
             }
         ]
     }
