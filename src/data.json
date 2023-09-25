@@ -10,7 +10,7 @@
                         "Time", "Behavior", "Significant", "Enjoyable", "Covenient", "Usable", "Fuctional", "Product Features", "Expercience", "Excitement", "Entry", "Engagement", "Exit", "Extension",
                         "Ergonomics", "Visibility", "Consistency", "Feedback", "Flexibility", "Constraints", "Mapping", "Affordance"
                         ],
-        "DSA-Chapter_3": ["Stack", "push()", "pop()", "Infix notation", "Queues", "enqueue()", "dequeue()"]
+        "DSA-Chapter_3": ["Stack", "push()", "pop()", "Infix notation", "Queues", "enqueue()", "dequeue()", "Postfix"]
     },
 
     "app": {
@@ -669,8 +669,74 @@
 
             {
                 "question": "Places the operator after the two operands. The operators appear in the order in which they are to be executed",
-                "answer": "Profix",
+                "answer": "Postfix",
                 "id": 111
+            },
+
+            {
+                "question": "The __________ provides top value of the stack without actually removing it.",
+                "answer": "top pointer",
+                "id": 112
+            },
+
+            {
+                "question": " uses a linked list to implement a stack of",
+                "answer": "strings.LinkStackOfJava.java",
+                "id": 113
+            },
+
+            {
+                "question": "Like Stack, we maintain a reference first to the __________ added Node in the queue.",
+                "answer": "least recently",
+                "id": 114
+            },
+
+            {
+                "question": "A stack implementations that allows us to build a stack of one particular type, such String.",
+                "answer": "Generics",
+                "id": 115
+            },
+
+            {
+                "question": "Java supplies built-in object types known as __________, one for each of primitive types: Boolean, Integer, Double, Character.",
+                "answer": "wrapper types",
+                "id": 116
+            },
+
+            {
+                "question": "int to Integer",
+                "answer": "Autoboxing",
+                "id": 118
+            },
+
+            {
+                "question": "Integer to int",
+                "answer": "unboxing",
+                "id": 119
+            },
+
+            {
+                "question": "Access all of the item in the collection, one at a time, without deleting them.",
+                "answer": "Iteration",
+                "id": 120
+            },
+
+            {
+                "question": "It is the traditional notation, and it has several advantages, but it also requires extensive rules regarding the order of operation.",
+                "answer": "infix notation",
+                "id": 121
+            },
+
+            {
+                "question": "It is in __________ if every subexpression to be evaluated is of the form operand-operator.",
+                "answer": "postfix form",
+                "id": 122
+            },
+
+            {
+                "question": "An expression is in __________ if every subexpression to be evaluated is of the form operand-operator-operand",
+                "answer": "infix form",
+                "id": 123
             }
         ]
     }
