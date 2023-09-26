@@ -14,7 +14,7 @@ function Category() {
         <p className={`btn-toggle ${!isHard? "green": "red"}`} onClick={()=>dispatch(setType())}>{isHard? "Hard":"Easy"}</p>
         { categories.map((cat, i)=> (
             <button key={i} className="cat-button" onClick={()=>dispatch(setCategory(cat))}>
-                {cat.replace("_", " ")}
+                {cat.replaceAll("_", " ")}
             </button>
         )) }
     </div>
