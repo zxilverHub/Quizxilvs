@@ -14,7 +14,10 @@
         "Pur_Com-Chapter_2": ["It helps us keep in touch with family and friends anywhere in the world", "It fosters better cooperation among different cultural groups", "Gender", "Don't bad-mouth your competition",
                          "Conversations", "Handle your hashtags carefully", "Relationships", "Language", "Sharing", "Groups", "It creates opportunities for meeting new people", "Presence", "unlimited information", 
                          "Reputation", "It brings new diversity to our culture and our lives", "Identity", "Age", "Globalization", "Religious Identities", "It can make us create second lives", "Social Class", "global village",
-                         "National Identities", "Ethnicity", "Be authentic and genuine", "Don't be overly promotional", "It isolates us", "Avoid over-automation", "Sharing", "Groups", "Relationship", "Presence", "Reputation", "Conversations"]
+                         "National Identities", "Ethnicity", "Be authentic and genuine", "Don't be overly promotional", "It isolates us", "Avoid over-automation", "Sharing", "Groups", "Relationship", "Presence", "Reputation", "Conversations"],
+        "DSA-Chapter_4": ["Inorder", "Parent", "Right-skewed", "Height of node x", "Child Node", "Ordered", "Traversal", "Strictly Binary", "Number of edges", "Descendant", "root node", 
+                         "Tree", "Depth of node x", "Full Binary Tree", "Leaf Node", "Internal nodes", "Siblings", "Root", "Weight of the node x", "Preorder", "Degree", "Degree of Tree", 
+                         "Free", "0", "External", "Forest", "Left-skewed", "Postorder", "Ancestor", "Edge"]
     },
 
     "app": {
@@ -971,6 +974,200 @@
                 "question": "The extent to which users exchange, distribute and receive content",
                 "answer": "Sharing",
                 "id": 162
+            }
+        ],
+
+        "DSA-Chapter_4": [
+            {
+                "question": "a nonlinear data structure.",
+                "answer": "Tree",
+                "id": 163
+            },
+            
+            {
+                "question": "A structure consisting of one node called the root and zero or one or more subtrees.",
+                "answer": "Tree",
+                "id": 164
+            },
+            
+            {
+                "question": "One node of the tree is designated as ________.",
+                "answer": "root node",
+                "id": 165
+            },
+            
+            {
+                "question": "The _______ node is the topmost node in the tree hierarchy. The one that doesnt have a parent.",
+                "answer": "Root",
+                "id": 166
+            },
+            
+            {
+                "question": "If the node is descendant of any node, then the node is know as a ________.",
+                "answer": "Child Node",
+                "id": 167
+            },
+            
+            {
+                "question": "If the node contains any sub-node, then that node is said to be the ________ of that sub-node.",
+                "answer": "Parent",
+                "id": 168
+            },
+            
+            {
+                "question": "The nodes that the same parents are know as ________.",
+                "answer": "Siblings",
+                "id": 169
+            },
+            
+            {
+                "question": "The node of the tree that doesnt have any child node. It is the bottom most node of the tree. And also called external nodes.",
+                "answer": "Leaf Node",
+                "id": 170
+            },
+            
+            {
+                "question": "A node that has at least one child node.",
+                "answer": "Internal nodes",
+                "id": 171
+            },
+            
+            {
+                "question": "Any predecessor node on a path from the root to that node.",
+                "answer": "Ancestor",
+                "id": 172
+            },
+            
+            {
+                "question": "The immediate successor of the given node is know as a ________ of a node.",
+                "answer": "Descendant",
+                "id": 173
+            },
+            
+            {
+                "question": "The total number of children of a node.",
+                "answer": "Degree",
+                "id": 174
+            },
+            
+            {
+                "question": "The highest degree of the node among all the nodes in a tree is call ________.",
+                "answer": "Degree of Tree",
+                "id": 175
+            },
+            
+            {
+                "question": "If there are n nodes, then there would n-1 edges.",
+                "answer": "Number of edges",
+                "id": 176
+            },
+            
+            {
+                "question": "Node incoming link",
+                "answer": "Edge",
+                "id": 177
+            },
+            
+            {
+                "question": "Can be defined as the leangth of the path from the root to the node x. The number of edges between the root node and the nood x.",
+                "answer": "Depth of node x",
+                "id": 178
+            },
+            
+            {
+                "question": "The root node has ________ depth.",
+                "answer": "0",
+                "id": 179
+            },
+            
+            {
+                "question": "Can be defined as the longest path from the node x to the leaf node.",
+                "answer": "Height of node x",
+                "id": 180
+            },
+            
+            {
+                "question": "Described by the value of the node multiplied by the level",
+                "answer": "Weight of the node x",
+                "id": 181
+            },
+            
+            {
+                "question": "An ________ tree is a finite set.",
+                "answer": "Ordered",
+                "id": 182
+            },
+            
+            {
+                "question": "A ________ tree has no node designated as the root and the orientation from a node to any other node is insignificant.",
+                "answer": "Free",
+                "id": 183
+            },
+            
+            {
+                "question": "When zero or more disjoint trees are taken together, they are know as a _______.",
+                "answer": "Forest",
+                "id": 184
+            },
+            
+            {
+                "question": "A node is ________ if it has no children, otherwise it is internal.",
+                "answer": "External",
+                "id": 185
+            },
+            
+            {
+                "question": "If two nodes have same parents, they are said to be ________.",
+                "answer": "Siblings",
+                "id": 186
+            },
+            
+            {
+                "question": "A type of binary tree tha has no right subtree.",
+                "answer": "Left-skewed",
+                "id": 187
+            },
+            
+            {
+                "question": "A type of binary tree that has no left subtree.",
+                "answer": "Right-skewed",
+                "id": 188
+            },
+            
+            {
+                "question": "A type of binary tree that is a tree in which every node has either two subtrees or none at all.",
+                "answer": "Strictly Binary",
+                "id": 189
+            },
+            
+            {
+                "question": "A strictly binary tree in which all terminal nodes lie at the bottommost level.",
+                "answer": "Full Binary Tree",
+                "id": 190
+            },
+            
+            {
+                "question": "Is a procedure that visits the nodes of the binary tree in a linear fashion such that each node is visited exactly once, where visit is defined as performing computations local to the node.",
+                "answer": "Traversal",
+                "id": 191
+            },
+            
+            {
+                "question": "The root is visited first. Root-Left-Right",
+                "answer": "Preorder",
+                "id": 192
+            },
+            
+            {
+                "question": "Left-Root-Right",
+                "answer": "Inorder",
+                "id": 193
+            },
+            
+            {
+                "question": "Left-Right-Root",
+                "answer": "Postorder",
+                "id": 194
             }
         ]
     }
