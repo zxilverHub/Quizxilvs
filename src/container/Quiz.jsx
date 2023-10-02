@@ -1,4 +1,4 @@
-import { useCallback } from "react"
+import { useCallback, useRef } from "react"
 import "./quiz.css"
 import { useSelector, useDispatch } from "react-redux"
 import { handleUserAnswer, handleSubmitQuiz, handleBack } from "../features/AppSlice"
@@ -68,7 +68,14 @@ function Quiz() {
                 <p className="question">{i+1}. {question.question}</p>
 
                 { isHard?
-                <input type="text" onChange={(e)=> handleAnswer(question, e.target.value)} className="answer-input" /> :
+                <input type="text" autoComplete="off" 
+                    onChange={(e)=> {
+                        handleAnswer(question, e.target.value);
+                        e.preventDefault()
+                    }
+                } className="answer-input" />
+                
+                :
 
                 <div className="choices">
                     { getChoices(question.answer).map((choices, j)=> (

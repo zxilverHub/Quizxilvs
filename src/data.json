@@ -17,7 +17,8 @@
                          "National Identities", "Ethnicity", "Be authentic and genuine", "Don't be overly promotional", "It isolates us", "Avoid over-automation", "Sharing", "Groups", "Relationship", "Presence", "Reputation", "Conversations"],
         "DSA-Chapter_4": ["Inorder", "Parent", "Right-skewed", "Height of node x", "Child Node", "Ordered", "Traversal", "Strictly Binary", "Number of edges", "Descendant", "root node", 
                          "Tree", "Depth of node x", "Full Binary Tree", "Leaf Node", "Internal nodes", "Siblings", "Root", "Weight of the node x", "Preorder", "Degree", "Degree of Tree", 
-                         "Free", "0", "External", "Forest", "Left-skewed", "Postorder", "Ancestor", "Edge"]
+                         "Free", "0", "External", "Forest", "Left-skewed", "Postorder", "Ancestor", "Edge"],
+        "HCI-Chapter-3&4": ["User Interface Design", "User Experience Design", "Scope", "User Experience", "Strategy", "Skeleton", "Structure", "Surface"]
     },
 
     "app": {
@@ -1168,6 +1169,56 @@
                 "question": "Left-Right-Root",
                 "answer": "Postorder",
                 "id": 194
+            }
+        ],
+
+        "HCI-Chapter-3&4": [
+            {
+                "question": "Who and why are you designing for? (Users needs and Product Objectives)",
+                "answer": "Strategy",
+                "id": 195
+            },
+            
+            {
+                "question": "What are you designing, what the solutions does? (Features and COntent Requirements)",
+                "answer": "Scope",
+                "id": 196
+            },
+            
+            {
+                "question": "How the product or solution works, create a blueprint on how the user interact with it? (Interaction Design and information Architecture)",
+                "answer": "Structure",
+                "id": 197
+            },
+            
+            {
+                "question": "First interface of the solution, or the tangible elements of the ux? (Information, interface and Navigation Design)",
+                "answer": "Skeleton",
+                "id": 198
+            },
+            
+            {
+                "question": "The most visible element. The users see and interact with? (Visual design)",
+                "answer": "Surface",
+                "id": 199
+            },
+            
+            {
+                "question": "The overall feelings of the user using the design or system.",
+                "answer": "User Experience",
+                "id": 200
+            },
+            
+            {
+                "question": "The process of creating products and experience that help users get done what theyve come to do. Satisfying users needs.",
+                "answer": "User Experience Design",
+                "id": 201
+            },
+            
+            {
+                "question": "It focuses on looks of the system",
+                "answer": "User Interface Design",
+                "id": 202
             }
         ]
     }
