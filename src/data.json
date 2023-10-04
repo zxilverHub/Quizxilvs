@@ -21,8 +21,10 @@
         "HCI-Chapter-3&4": ["User Interface Design", "User Experience Design", "Scope", "User Experience", "Strategy", "Skeleton", "Structure", "Surface", "Activity Interaction", "System spanning", "Localized Interaction",
                          "Business Success", "UX Lifecycle Model", "User Experience", "Process", "Prototype Candidates", "Data modeling", "Evalute UX", "UI designer", "Cost Reduction", "UX Design Lifecycle", "Requirements Extraction", 
                          "User Experience Design", "UX Lifecycle Activities", "Generative Design", "UX Lifecycle Methods", "User Interface", "UX Lifecycle Techniques", "Overall User Satisfaction", "User-centric Approach", 
-                         "User Interface Design", "Udnderstand Needs", "Usefulness", "Design Solution", "Meaningfulness", "Emotional Impact", "UX Design Lifecycle Process", "Data Analysis", "Conceptual Design", "Data Elicitation", 
-                         "Usability", "Safety and Convenience", "Design Production", "Develop Click-Through Wireframe Prototypes", "Data Organization", "Create Paper Protoype", "Propose Redisign Solution", "Analyze Evaluation Data", "Abstraction", "Collect Evaluation Data", "Intermediate Design", "Report Results", "Build Wireframes and Wireflows", "Note Taking", "Observation", "Build Physical Prototypes", "Brainstorming", "Reasoning and Deduction", "Critical Thinking and Iteration", "Framing and Reframing", "Sketching and Drawing", "Storytelling", "Prototyping and Envisioning", "Immersion", "Modeling"]
+                         "User Interface Design", "Understand Needs", "Usefulness", "Design Solution", "Meaningfulness", "Emotional Impact", "UX Design Lifecycle Process", "Data Analysis", "Conceptual Design", "Data Elicitation", 
+                         "Usability", "Safety and Convenience", "Design Production", "Develop Click-Through Wireframe Prototypes", "Data Organization", "Create Paper Prototype", "Propose Redisign Solution", "Analyze Evaluation Data", 
+                         "Abstraction", "Collect Evaluation Data", "Intermediate Design", "Report Results", "Build Wireframes and Wireflows", "Note Taking", "Observation", "Build Physical Prototypes", "Brainstorming", "Reasoning and Deduction", "Critical Thinking and Iteration", "Framing and Reframing", "Sketching and Drawing", 
+                         "Storytelling", "Prototyping and Envisioning", "Immersion", "Modeling"]
     },
 
     "app": {
@@ -1370,14 +1372,14 @@
             },
             
             {
-                "question": "These are specific, detailed practices used to perform individual steps within the activities, subactivities, or methods of the user experience desgin process.",
+                "question": "These are specific, detailed practices used to perform individual steps within the activities, subactivities, or methods of the user experience design process.",
                 "answer": "UX Lifecycle Techniques",
                 "id": 227
             },
             
             {
                 "question": "This activity involves gaining insights into users, their work practices, usage patterns, and the subject-matter domain to understand their needs and requirements for the design.",
-                "answer": "Udnderstand Needs",
+                "answer": "Understand Needs",
                 "id": 228
             },
             
@@ -1394,7 +1396,7 @@
             },
             
             {
-                "question": "This activity involves verifying and refining and refining the designs based on user fedback and insight to ensure a positive user experience.",
+                "question": "This activity involves verifying and refining the designs based on user feedback and insight to ensure a positive user experience.",
                 "answer": "Evalute UX",
                 "id": 231
             },
@@ -1406,7 +1408,7 @@
             },
             
             {
-                "question": "The collected usage research data is distileld and organized for better comprehension.",
+                "question": "The collected usage research data is distilled and organized for better comprehension.",
                 "answer": "Data Analysis",
                 "id": 233
             },
@@ -1424,7 +1426,7 @@
             },
             
             {
-                "question": "In This sub-activity, designers engage in ideation and sketching to create various desgin ideas.",
+                "question": "In This sub-activity, designers engage in ideation and sketching to create various design ideas.",
                 "answer": "Generative Design",
                 "id": 236
             },
@@ -1442,31 +1444,31 @@
             },
 
             {
-                "question": "In this place, desingers develop ecological, interaction, and emotional design plans for rhe most promising candidates.",
+                "question": "In this place, desingers develop ecological, interaction, and emotional design plans for the most promising candidates.",
                 "answer": "Intermediate Design",
                 "id": 239
             },
             
             {
                 "question": "DEsigners develop hand-drawn or printed paper prototypes to explore and visualize design concepts in low fidelity.",
-                "answer": "Create Paper Protoype",
+                "answer": "Create Paper Prototype",
                 "id": 240
             },
             
             {
-                "question": "Designers create digital wireframes and wireflows, basic visual representations of the user interface and interaction flow.",
+                "question": "Designers create basic visual representations of the user interface and interaction flow.",
                 "answer": "Build Wireframes and Wireflows",
                 "id": 241
             },
             
             {
-                "question": "Desingers create interactive prototypes that allow users to navigate through the design with clickable elements, providing a more dynamic representation ot the user experience.",
+                "question": "Desingers create interactive prototypes that allow users to navigate through the design with clickable elements, providing a more dynamic representation of the user experience.",
                 "answer": "Develop Click-Through Wireframe Prototypes",
                 "id": 242
             },
             
             {
-                "question": "For physical products or tangible interactions, designers create physical prototyes to terst and evaluate the designs functionality and usability.",
+                "question": "For physical products or tangible interactions, designers create physical prototyes to test and evaluate the designs functionality and usability.",
                 "answer": "Build Physical Prototypes",
                 "id": 243
             },
@@ -1478,13 +1480,13 @@
             },
             
             {
-                "question": "The collected daya is analyzed to identify patternsm official incidents, and root causes. This analysis helps designers understand the strengths and weakness of the design.",
+                "question": "The collected daya is analyzed to identify patterns, official incidents, and root causes. This analysis helps designers understand the strengths and weakness of the design.",
                 "answer": "Analyze Evaluation Data",
                 "id": 245
             },
             
             {
-                "question": "Based on the evaluation results, designers propose changes and improvements to address identified issues and enhance the user ecperience.",
+                "question": "Based on the evaluation results, designers propose changes and improvements to address identified issues and enhance the user experience.",
                 "answer": "Propose Redisign Solution",
                 "id": 246
             },
@@ -1526,7 +1528,7 @@
             },
             
             {
-                "question": "is the art of conveying information, ideas, or experiences through ",
+                "question": "is the art of conveying information, ideas, or experiences through narratives that engage and captivate an audience.",
                 "answer": "Storytelling",
                 "id": 253
             },
@@ -1550,27 +1552,63 @@
             },
             
             {
-                "question": "is the way in which a problem or situation is presented, and reframing involves looking at it from different perspectives.",
+                "question": "is the way in which a problem or situation is presented, and involves looking at it from different perspectives.",
                 "answer": "Framing and Reframing",
                 "id": 257
             },
             
             {
-                "question": "is the ability to form logical conclusions, while deduction involves drawing specific conclusions from general information.",
+                "question": "is the ability to form logical conclusions, and involves drawing specific conclusions from general information.",
                 "answer": "Reasoning and Deduction",
                 "id": 258
             },
             
             {
-                "question": "is the creation of preliminary models or representations of a design or idea, and envisioning involves imagining future scenarios.",
+                "question": "is the creation of preliminary models or representations of a design or idea, and involves imagining future scenarios.",
                 "answer": "Prototyping and Envisioning",
                 "id": 259
             },
             
             {
-                "question": "involves analyzing and evaluating information or arguments, and iteration is the process of repeating and refining a task or idea.",
+                "question": "involves analyzing and evaluating information or arguments, and a is the process of repeating and refining a task or idea.",
                 "answer": "Critical Thinking and Iteration",
                 "id": 260
+            },
+
+            {
+                "question": "A well-defined process provides a clear path for designing and evaluating user interfaces, ensuring that all relevant aspects are considered.",
+                "answer": "Guiding Structure",
+                "id": 261
+            },
+
+            {
+                "question": "A process helps in systematically identifying user needs, conducting research, prototyping, testing, and iterating, leading to more effective HCI solutions.",
+                "answer": "Systematic Approach",
+                "id": 262
+            },
+
+            {
+                "question": " Following a consistent process promotes reliability in design outcomes, making it easier to replicate successful designs and avoid errors.",
+                "answer": "Reliability and Consistency",
+                "id": 263
+            },
+
+            {
+                "question": "A process can serve as a framework for both newcomers and experienced professionals, helping them understand and teach HCI principles and methods.",
+                "answer": "Scaffolding for Learning",
+                "id": 264
+            },
+
+            {
+                "question": "Having a standardized process fosters a common understanding among team members, facilitating collaboration and communication in HCI projects.",
+                "answer": "Shared Conception",
+                "id": 265
+            },
+
+            {
+                "question": "Specific tasks and actions performed within each main activity if the user experience design process.",
+                "answer": "UX Lifecycle Subactivities",
+                "id": 266
             }
             
         ]
